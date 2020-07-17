@@ -20,7 +20,10 @@
     "baseUrl": "https://github.com/weblineindia/React-Native-Expandable-Textview"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "rn-weblineindia-expandable-textView", 
+    "react-native-expandable-textView", 
+    "expandable-textView"
   ],
   "author": {
     "name": "Weblineindia"
