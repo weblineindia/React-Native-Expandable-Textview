@@ -123,4 +123,4 @@ Detailed changes for each release are documented in [CHANGELOG.md](./CHANGELOG.m
 
 ### Keywords
 
- rn-weblineindia-expandable-textView, react-native-expandable-textView, Expandable-TextView, react-native
+ rn-weblineindia-expandable-textView, react-native-expandable-textView, expandable-textView, react-native

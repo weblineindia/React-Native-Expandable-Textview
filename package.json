@@ -1,5 +1,5 @@
 {
-  "name": "react-native-expandable-textview",
+  "name": "rn-weblineindia-expandable-textview",
   "title": "React Native Expandable Textview",
   "version": "1.0.1",
   "description": "A React Native based component for creating Expandable TextView in your application.",
@@ -9,7 +9,7 @@
     "android",
     "index.js",
     "ios",
-    "react-native-expandable-textview.podspec"
+    "rn-weblineindia-expandable-textview.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
