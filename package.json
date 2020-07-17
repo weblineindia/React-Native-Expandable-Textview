@@ -1,0 +1,40 @@
+{
+  "name": "react-native-expandable-textview",
+  "title": "React Native Expandable Textview",
+  "version": "1.0.0",
+  "description": "A React Native based component for creating Expandable TextView in your application.",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-expandable-textview.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblineindia/React-Native-Expandable-Textview.git",
+    "baseUrl": "https://github.com/weblineindia/React-Native-Expandable-Textview"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Weblineindia"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
