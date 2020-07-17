@@ -1,7 +1,7 @@
 {
   "name": "rn-weblineindia-expandable-textview",
   "title": "React Native Expandable Textview",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A React Native based component for creating Expandable TextView in your application.",
   "main": "index.js",
   "files": [
