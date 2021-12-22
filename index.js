@@ -7,7 +7,7 @@ https://www.weblineindia.com/software-development-resources.html
 Our Github URL : https://github.com/weblineindia
 **/
 import React, { Component } from 'react';
-import  { TextInput } from 'react-native';
+import { TextInput } from 'react-native';
 
 
 export default class ExpandableTextField extends Component {

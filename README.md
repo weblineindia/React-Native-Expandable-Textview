@@ -18,7 +18,7 @@ A React Native based component for creating Expandable TextView in your applicat
 
 ## Demo
 
-[![](ExpandableTextView.png)](https://github.com/weblineindia/React-Native-Expandable-Textview/ExpandableTextView.png)
+[![](ExpandableTextView.png)](http://git-ar.webline.local/ReactNative/Component-Expandable-TextView/ExpandableTextView.png)
 
 ## Installation
 
@@ -26,7 +26,7 @@ A React Native based component for creating Expandable TextView in your applicat
 
 ## Supported versions
 
-We have tested this component in ReactNative 0.60 - 0.62.5. You can still use it in other versions.
+We have tested this component in ReactNative 0.60 - 0.66. You can still use it in other versions.
 
 ## Usage
 
@@ -37,7 +37,6 @@ import ExpandableTextField from 'rn-weblineindia-expandable-textview';
 
  <ExpandableTextField
   style={{}}
-  value={this.state.inputValue}
   onChangeText={(text) => console.log('Text--->',text)}
   maxHeight={250}
   selectionColor={'black'}
@@ -117,10 +116,10 @@ Detailed changes for each release are documented in [CHANGELOG.md](./CHANGELOG.m
 
 [MIT](LICENSE)
 
-[mit]: https://github.com/weblineindia/React-Native-Expandable-Textview/blob/master/LICENSE
+[mit]: https://github.com/weblineindia/React-Native-Expandable-TextView/blob/master/LICENSE
 
 ------
 
 ### Keywords
 
- rn-weblineindia-expandable-textView, react-native-expandable-textView, expandable-textView, react-native
+ rn-weblineindia-expandable-textView, react-native-expandable-textView, Expandable-TextView, react-native
